@@ -1,2 +1,2 @@
-# brighaminkley1.github.io
+# brighaminkley.github.io
 Capstone Final Project
