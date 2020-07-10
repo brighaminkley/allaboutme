@@ -33,7 +33,7 @@ $(document).ready(function() {
     $('body').vegas({
         slides: [
             { src: 'zionpic.jpg' },
-            { src: 'horizontalwall.jpg' },
+            { src: 'horizontalwall.JPG' },
             { src: 'mecruise.jpg' }
         ],
         timer: false,
