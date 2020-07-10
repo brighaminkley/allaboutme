@@ -32,9 +32,9 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'mecruise.jpg' },
             { src: 'zionpic.jpg' },
-            { src: 'horizontalwall.jpg' }
+            { src: 'horizontalwall.jpg' },
+            { src: 'mecruise.jpg' }
         ],
         timer: false,
         transition: [ 'zoomIn', ],
